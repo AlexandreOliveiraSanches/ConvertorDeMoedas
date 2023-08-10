@@ -1,0 +1,15 @@
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net7.0\ConvertorDeMoedas.exe
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net7.0\ConvertorDeMoedas.deps.json
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net7.0\ConvertorDeMoedas.runtimeconfig.json
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net7.0\ConvertorDeMoedas.dll
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\bin\Debug\net7.0\ConvertorDeMoedas.pdb
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.csproj.AssemblyReference.cache
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.AssemblyInfoInputs.cache
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.AssemblyInfo.cs
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.csproj.CoreCompileInputs.cache
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.dll
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\refint\ConvertorDeMoedas.dll
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.pdb
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ConvertorDeMoedas.genruntimeconfig.cache
+C:\codigos\projetos C#\ConvertorDeMoedas\ConvertorDeMoedas\obj\Debug\net7.0\ref\ConvertorDeMoedas.dll
