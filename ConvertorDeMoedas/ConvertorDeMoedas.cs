@@ -2,12 +2,14 @@
 {
     internal class ConvertorDeMoedas
     {
-        public static double Iof = 6.0;
+        public static double Iof = 6;
 
-        public static double DolarParaReal(double quantia, double cotacao) {
+        public static double MoedaParaReal(double quantia, double cotacao) 
+        {
             double total = quantia * cotacao;
 
-            return total =+ total * Iof / 100.0;
+            return total += total * Iof / 100;
         }
+
     }
 }
